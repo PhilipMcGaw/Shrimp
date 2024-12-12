@@ -1,0 +1,3 @@
+[submodule "KiCAD-Common"]
+	path = KiCAD-Common
+	url = git@github.com:PhilipMcGaw/KiCAD-Common.git
